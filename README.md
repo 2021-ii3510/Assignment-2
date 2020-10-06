@@ -49,7 +49,7 @@ The following points must be implemented in your app:
 
 ## Deadline for submission
 
-Deadline: October 20, 2020 23:59.
+Deadline: October 21, 2020 23:59.
 
 Lateness policy applies if still available. Issues with configuring the
 IDE or working with Git/GitHub will not warrant any deadline extension
